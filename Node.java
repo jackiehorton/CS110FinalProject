@@ -1,7 +1,8 @@
 /** Represents one node to be used in a linked list
     Contains data (object) and reference to next in list
 */
-
+// Adding additional comments to make
+// the file different
 public class Node {
   private Object item;
   private Node next;
