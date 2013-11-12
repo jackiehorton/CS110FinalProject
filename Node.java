@@ -3,6 +3,8 @@
 */
 // Adding additional comments to make
 // the file different
+// adding some comments
+// to see what happens
 public class Node {
   private Object item;
   private Node next;
